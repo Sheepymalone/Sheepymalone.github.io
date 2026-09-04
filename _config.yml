@@ -12,10 +12,10 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Mingjia Yang's Homepage"
 title_separator          : "-"
 name                     : &name "Mingjia Yang"
-description              : &description "personal description"
-url                      : https://mjyang.github.io  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "PhD student in Biophysics at the University of Michigan. Single-molecule and interferometric imaging."
+url                      : https://sheepymalone.github.io  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mjyang.github.io"
+repository               : "Sheepymalone/Sheepymalone.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "profile_1.jpg" # filename of avatar image placed in /images/, e.g. "avatar.png"
   name             : "Mingjia Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student in Biophysics at the University of Michigan. Single-molecule and interferometric imaging, and the analysis pipelines that go with them."
   location         : "Ann Arbor, MI, USA"
   employer         : "University of Michigan"
   uri              : # URL
